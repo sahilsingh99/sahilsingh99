@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Sahil, a Final year CSE Undergraduate.
+
+### I am interested in Web Development, focused on Backend part.
+
 
 <!--
 **sahilsingh99/sahilsingh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
