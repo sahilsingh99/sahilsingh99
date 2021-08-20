@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sahil, a Final year CSE Undergraduate.
 
-### I am interested in Web Development, focused on Backend part.
+### I am interested in Web Development, focused in Backend.
 
 
 <!--
