@@ -4,16 +4,16 @@
 
 #### Tech Stack
 `
-C/C++
-Python
-JavaScript
-Java
-React js
-Node js
-PHP slim, guzzle
-Express js
-MongoDB
-MYSQL
+C/C++,
+Python,
+JavaScript,
+Java,
+React js,
+Node js,
+PHP (slim, guzzle),
+Express js,
+MongoDB,
+MYSQL,
 Flask
 `
 
