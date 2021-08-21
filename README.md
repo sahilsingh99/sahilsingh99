@@ -1,6 +1,21 @@
 ### Hi there 👋, I am Sahil, a Final year CSE Undergraduate.
 
-### I am interested in Web Development, more focused in Backend.
+### I am interested in Web Development and like Competitive Programming.
+
+#### Tech Stack
+`
+C/C++
+Python
+JavaScript
+Java
+React js
+Node js
+PHP slim, guzzle
+Express js
+MongoDB
+MYSQL
+Flask
+`
 
 
 <!--
